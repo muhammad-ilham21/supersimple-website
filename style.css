@@ -1,0 +1,21 @@
+#lb1{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: helvetica;
+}
+#btnContainer{
+    text-align: center;
+}
+.buttons{
+    padding:10px 20px;
+    font-size: 1.5em;
+    color: aliceblue;
+    background-color: rgb(229, 152, 239) ;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.1s;
+}
+.buttons:hover{
+    background-color:  rgb(97, 13, 108);
+}
