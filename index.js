@@ -16,4 +16,10 @@ resetBtn.onclick = function(){
     count = 100;
     Countlable.textContent = count;
 }
+#lb2{
+    font-size: 2em;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: rgb(237, 147, 51);
+}
 
